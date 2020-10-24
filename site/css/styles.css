@@ -6,7 +6,8 @@ body{
 }
 
 #header-nav{
-    background: url(/headerbg.jpg) no-repeat;
+    /*background: url(/headerbg.jpg) no-repeat;*/
+    background: url(https://static.billboard.com/files/media/Travis-Scott-press-photo-by-Dave-LaChapelle-2018-billboard-1548-compressed.jpg) no-repeat;
     background-position: 0% 10%;
     width: auto;
     height: 290px;
@@ -42,11 +43,11 @@ body{
 }
 
 #logoedit{
-    background: url("/trasm.png");
+    background: url(https://mtv.mtvnimages.com/uri/mgid:ao:image:mtv.com:694256?quality=0.8&format=jpg);
+    background-size: 190px 190px;
     background-repeat: no-repeat;
     width: 190px;
     height: 190px;
-    opacity: 80%;
     border-radius: 95px;
     box-shadow: 5px 5px 5px  rgb(0,0,0, 0.2);
 }
